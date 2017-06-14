@@ -2,6 +2,11 @@ ssmtp Cookbook Changelog
 ==========================
 This file is used to list changes made in each version of the ssmtp cookbook.
 
+v0.4.4
+------
+* DCOPS-12659: Remove version constraint on yum-epel cookbook.
+* Update CHANGELOG. Bump.
+
 v0.4.3
 ------
 * DCOPS-12659: Bump dep on yum-epel cookbook to '~> 2.0'.
